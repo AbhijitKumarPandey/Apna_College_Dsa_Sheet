@@ -1,6 +1,6 @@
 package Array;
 
-public class Max_Sum_Array {
+public class Max_Sub_Array {
 
 	public static int SubArray(int []nums) {
 		int maxSum = nums[0];
